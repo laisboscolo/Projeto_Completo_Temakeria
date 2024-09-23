@@ -1,3 +1,5 @@
 # Projeto_Completo_Temakeria
  
-* foto de baixa qualidade do projeto
+* Protótipo de baixa qualidade do projeto de site
+
+* Protótipo de alta qualidade do projeto de site
